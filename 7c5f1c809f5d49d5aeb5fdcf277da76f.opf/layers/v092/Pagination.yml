@@ -819,20 +819,20 @@ annotations:
     reference: ''
     span:
       start: 153975
-      end: 155227
+      end: 155229
     note_ref: ddf991964e3d4b8f96bb6eaab45a18d9
   0231b159d2be4b40a16267404421447a:
     imgnum: 156
     reference: ''
     span:
-      start: 155229
-      end: 156633
+      start: 155231
+      end: 156635
     note_ref: ddf991964e3d4b8f96bb6eaab45a18d9
   5a81d59d780c458193d6d81a16952fdf:
     imgnum: 157
     reference: ''
     span:
-      start: 156635
+      start: 156637
       end: 157902
     note_ref: ddf991964e3d4b8f96bb6eaab45a18d9
   8eebbf82a56e4e10a7ca3a02ba1ebbe1:
